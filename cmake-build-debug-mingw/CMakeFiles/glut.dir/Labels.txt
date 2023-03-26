@@ -1,0 +1,13 @@
+# Target labels
+ glut
+# Source files and their labels
+C:/BME/grafika/hf1/cmake-build-debug-mingw/CMakeFiles/glut
+C:/BME/grafika/hf1/cmake-build-debug-mingw/CMakeFiles/glut.rule
+C:/BME/grafika/hf1/cmake-build-debug-mingw/CMakeFiles/glut-complete.rule
+C:/BME/grafika/hf1/cmake-build-debug-mingw/glut-prefix/src/glut-stamp/glut-build.rule
+C:/BME/grafika/hf1/cmake-build-debug-mingw/glut-prefix/src/glut-stamp/glut-configure.rule
+C:/BME/grafika/hf1/cmake-build-debug-mingw/glut-prefix/src/glut-stamp/glut-download.rule
+C:/BME/grafika/hf1/cmake-build-debug-mingw/glut-prefix/src/glut-stamp/glut-install.rule
+C:/BME/grafika/hf1/cmake-build-debug-mingw/glut-prefix/src/glut-stamp/glut-mkdir.rule
+C:/BME/grafika/hf1/cmake-build-debug-mingw/glut-prefix/src/glut-stamp/glut-patch.rule
+C:/BME/grafika/hf1/cmake-build-debug-mingw/glut-prefix/src/glut-stamp/glut-update.rule

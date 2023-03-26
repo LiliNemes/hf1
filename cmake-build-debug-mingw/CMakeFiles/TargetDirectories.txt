@@ -1,0 +1,5 @@
+C:/BME/grafika/hf1/cmake-build-debug-mingw/CMakeFiles/program.dir
+C:/BME/grafika/hf1/cmake-build-debug-mingw/CMakeFiles/glut.dir
+C:/BME/grafika/hf1/cmake-build-debug-mingw/CMakeFiles/glew.dir
+C:/BME/grafika/hf1/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+C:/BME/grafika/hf1/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir
