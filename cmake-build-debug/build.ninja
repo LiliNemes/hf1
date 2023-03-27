@@ -49,15 +49,15 @@ cmake_ninja_workdir = C$:/BME/grafika/hf1/cmake-build-debug/
 
 build cmake_object_order_depends_target_program: phony || glew glut
 
-build CMakeFiles/program.dir/src/framework.cpp.obj: CXX_COMPILER__program_unscanned_Debug C$:/BME/grafika/hf1/src/framework.cpp || cmake_object_order_depends_target_program
-  DEP_FILE = CMakeFiles\program.dir\src\framework.cpp.obj.d
+build CMakeFiles/program.dir/src/Skeleton.cpp.obj: CXX_COMPILER__program_unscanned_Debug C$:/BME/grafika/hf1/src/Skeleton.cpp || cmake_object_order_depends_target_program
+  DEP_FILE = CMakeFiles\program.dir\src\Skeleton.cpp.obj.d
   FLAGS = -Wall -Wextra -Werror -pedantic -Wshadow -g -std=gnu++14 -fdiagnostics-color=always
   INCLUDES = -IC:/BME/grafika/hf1/include -IC:/BME/grafika/hf1/src/freeglut/include -IC:/BME/grafika/hf1/src/glew/include
   OBJECT_DIR = CMakeFiles\program.dir
   OBJECT_FILE_DIR = CMakeFiles\program.dir\src
 
-build CMakeFiles/program.dir/src/Skeleton.cpp.obj: CXX_COMPILER__program_unscanned_Debug C$:/BME/grafika/hf1/src/Skeleton.cpp || cmake_object_order_depends_target_program
-  DEP_FILE = CMakeFiles\program.dir\src\Skeleton.cpp.obj.d
+build CMakeFiles/program.dir/src/framework.cpp.obj: CXX_COMPILER__program_unscanned_Debug C$:/BME/grafika/hf1/src/framework.cpp || cmake_object_order_depends_target_program
+  DEP_FILE = CMakeFiles\program.dir\src\framework.cpp.obj.d
   FLAGS = -Wall -Wextra -Werror -pedantic -Wshadow -g -std=gnu++14 -fdiagnostics-color=always
   INCLUDES = -IC:/BME/grafika/hf1/include -IC:/BME/grafika/hf1/src/freeglut/include -IC:/BME/grafika/hf1/src/glew/include
   OBJECT_DIR = CMakeFiles\program.dir
@@ -71,7 +71,7 @@ build CMakeFiles/program.dir/src/Skeleton.cpp.obj: CXX_COMPILER__program_unscann
 #############################################
 # Link the executable program.exe
 
-build program.exe: CXX_EXECUTABLE_LINKER__program_Debug CMakeFiles/program.dir/src/framework.cpp.obj CMakeFiles/program.dir/src/Skeleton.cpp.obj || glew glut
+build program.exe: CXX_EXECUTABLE_LINKER__program_Debug CMakeFiles/program.dir/src/Skeleton.cpp.obj CMakeFiles/program.dir/src/framework.cpp.obj || glew glut
   FLAGS = -Wall -Wextra -Werror -pedantic -Wshadow -g
   LINK_LIBRARIES = -lglew32  -lglu32  -lfreeglut  -lopengl32  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   LINK_PATH = -LC:/BME/grafika/hf1/src/freeglut/lib   -LC:/BME/grafika/hf1/src/glew/lib/Release/Win32
