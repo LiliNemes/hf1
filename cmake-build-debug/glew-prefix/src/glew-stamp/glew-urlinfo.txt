@@ -3,9 +3,9 @@
 # No other meaning or use of this file is supported.
 
 method=url
-command=C:/Program Files/CMake/bin/cmake.exe;-P;C:/BME/grafika/hf1/cmake-build-debug/glew-prefix/src/glew-stamp/download-glew.cmake;COMMAND;C:/Program Files/CMake/bin/cmake.exe;-P;C:/BME/grafika/hf1/cmake-build-debug/glew-prefix/src/glew-stamp/verify-glew.cmake;COMMAND;C:/Program Files/CMake/bin/cmake.exe;-P;C:/BME/grafika/hf1/cmake-build-debug/glew-prefix/src/glew-stamp/extract-glew.cmake
-source_dir=C:/BME/grafika/hf1/src/glew
-work_dir=C:/BME/grafika/hf1/src
+command=C:/Program Files/CMake/bin/cmake.exe;-P;C:/BME/grafika/hf2/cmake-build-debug/glew-prefix/src/glew-stamp/download-glew.cmake;COMMAND;C:/Program Files/CMake/bin/cmake.exe;-P;C:/BME/grafika/hf2/cmake-build-debug/glew-prefix/src/glew-stamp/verify-glew.cmake;COMMAND;C:/Program Files/CMake/bin/cmake.exe;-P;C:/BME/grafika/hf2/cmake-build-debug/glew-prefix/src/glew-stamp/extract-glew.cmake
+source_dir=C:/BME/grafika/hf2/src/glew
+work_dir=C:/BME/grafika/hf2/src
 url(s)=https://downloads.sourceforge.net/project/glew/glew/2.1.0/glew-2.1.0-win32.zip
 hash=
 no_extract=

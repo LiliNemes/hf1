@@ -4,19 +4,19 @@
 cmake_minimum_required(VERSION 3.5)
 
 file(MAKE_DIRECTORY
-  "C:/BME/grafika/hf1/src/freeglut"
-  "C:/BME/grafika/hf1/cmake-build-debug/glut-prefix/src/glut-build"
-  "C:/BME/grafika/hf1/cmake-build-debug/glut-prefix"
-  "C:/BME/grafika/hf1/cmake-build-debug/glut-prefix/tmp"
-  "C:/BME/grafika/hf1/cmake-build-debug/glut-prefix/src/glut-stamp"
-  "C:/BME/grafika/hf1/cmake-build-debug/glut-prefix/src"
-  "C:/BME/grafika/hf1/cmake-build-debug/glut-prefix/src/glut-stamp"
+  "C:/BME/grafika/hf2/src/freeglut"
+  "C:/BME/grafika/hf2/cmake-build-debug/glut-prefix/src/glut-build"
+  "C:/BME/grafika/hf2/cmake-build-debug/glut-prefix"
+  "C:/BME/grafika/hf2/cmake-build-debug/glut-prefix/tmp"
+  "C:/BME/grafika/hf2/cmake-build-debug/glut-prefix/src/glut-stamp"
+  "C:/BME/grafika/hf2/cmake-build-debug/glut-prefix/src"
+  "C:/BME/grafika/hf2/cmake-build-debug/glut-prefix/src/glut-stamp"
 )
 
 set(configSubDirs )
 foreach(subDir IN LISTS configSubDirs)
-    file(MAKE_DIRECTORY "C:/BME/grafika/hf1/cmake-build-debug/glut-prefix/src/glut-stamp/${subDir}")
+    file(MAKE_DIRECTORY "C:/BME/grafika/hf2/cmake-build-debug/glut-prefix/src/glut-stamp/${subDir}")
 endforeach()
 if(cfgdir)
-  file(MAKE_DIRECTORY "C:/BME/grafika/hf1/cmake-build-debug/glut-prefix/src/glut-stamp${cfgdir}") # cfgdir has leading slash
+  file(MAKE_DIRECTORY "C:/BME/grafika/hf2/cmake-build-debug/glut-prefix/src/glut-stamp${cfgdir}") # cfgdir has leading slash
 endif()

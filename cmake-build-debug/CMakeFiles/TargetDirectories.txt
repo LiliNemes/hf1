@@ -1,5 +1,5 @@
-C:/BME/grafika/hf1/cmake-build-debug/CMakeFiles/program.dir
-C:/BME/grafika/hf1/cmake-build-debug/CMakeFiles/glut.dir
-C:/BME/grafika/hf1/cmake-build-debug/CMakeFiles/glew.dir
-C:/BME/grafika/hf1/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/BME/grafika/hf1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/BME/grafika/hf2/cmake-build-debug/CMakeFiles/program.dir
+C:/BME/grafika/hf2/cmake-build-debug/CMakeFiles/glut.dir
+C:/BME/grafika/hf2/cmake-build-debug/CMakeFiles/glew.dir
+C:/BME/grafika/hf2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/BME/grafika/hf2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

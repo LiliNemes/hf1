@@ -4,19 +4,19 @@
 cmake_minimum_required(VERSION 3.5)
 
 file(MAKE_DIRECTORY
-  "C:/BME/grafika/hf1/src/glew"
-  "C:/BME/grafika/hf1/cmake-build-debug-mingw/glew-prefix/src/glew-build"
-  "C:/BME/grafika/hf1/cmake-build-debug-mingw/glew-prefix"
-  "C:/BME/grafika/hf1/cmake-build-debug-mingw/glew-prefix/tmp"
-  "C:/BME/grafika/hf1/cmake-build-debug-mingw/glew-prefix/src/glew-stamp"
-  "C:/BME/grafika/hf1/cmake-build-debug-mingw/glew-prefix/src"
-  "C:/BME/grafika/hf1/cmake-build-debug-mingw/glew-prefix/src/glew-stamp"
+  "C:/BME/grafika/hf2/src/glew"
+  "C:/BME/grafika/hf2/cmake-build-debug-mingw/glew-prefix/src/glew-build"
+  "C:/BME/grafika/hf2/cmake-build-debug-mingw/glew-prefix"
+  "C:/BME/grafika/hf2/cmake-build-debug-mingw/glew-prefix/tmp"
+  "C:/BME/grafika/hf2/cmake-build-debug-mingw/glew-prefix/src/glew-stamp"
+  "C:/BME/grafika/hf2/cmake-build-debug-mingw/glew-prefix/src"
+  "C:/BME/grafika/hf2/cmake-build-debug-mingw/glew-prefix/src/glew-stamp"
 )
 
 set(configSubDirs )
 foreach(subDir IN LISTS configSubDirs)
-    file(MAKE_DIRECTORY "C:/BME/grafika/hf1/cmake-build-debug-mingw/glew-prefix/src/glew-stamp/${subDir}")
+    file(MAKE_DIRECTORY "C:/BME/grafika/hf2/cmake-build-debug-mingw/glew-prefix/src/glew-stamp/${subDir}")
 endforeach()
 if(cfgdir)
-  file(MAKE_DIRECTORY "C:/BME/grafika/hf1/cmake-build-debug-mingw/glew-prefix/src/glew-stamp${cfgdir}") # cfgdir has leading slash
+  file(MAKE_DIRECTORY "C:/BME/grafika/hf2/cmake-build-debug-mingw/glew-prefix/src/glew-stamp${cfgdir}") # cfgdir has leading slash
 endif()

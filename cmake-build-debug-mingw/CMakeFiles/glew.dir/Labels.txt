@@ -1,13 +1,13 @@
 # Target labels
  glew
 # Source files and their labels
-C:/BME/grafika/hf1/cmake-build-debug-mingw/CMakeFiles/glew
-C:/BME/grafika/hf1/cmake-build-debug-mingw/CMakeFiles/glew.rule
-C:/BME/grafika/hf1/cmake-build-debug-mingw/CMakeFiles/glew-complete.rule
-C:/BME/grafika/hf1/cmake-build-debug-mingw/glew-prefix/src/glew-stamp/glew-build.rule
-C:/BME/grafika/hf1/cmake-build-debug-mingw/glew-prefix/src/glew-stamp/glew-configure.rule
-C:/BME/grafika/hf1/cmake-build-debug-mingw/glew-prefix/src/glew-stamp/glew-download.rule
-C:/BME/grafika/hf1/cmake-build-debug-mingw/glew-prefix/src/glew-stamp/glew-install.rule
-C:/BME/grafika/hf1/cmake-build-debug-mingw/glew-prefix/src/glew-stamp/glew-mkdir.rule
-C:/BME/grafika/hf1/cmake-build-debug-mingw/glew-prefix/src/glew-stamp/glew-patch.rule
-C:/BME/grafika/hf1/cmake-build-debug-mingw/glew-prefix/src/glew-stamp/glew-update.rule
+C:/BME/grafika/hf2/cmake-build-debug-mingw/CMakeFiles/glew
+C:/BME/grafika/hf2/cmake-build-debug-mingw/CMakeFiles/glew.rule
+C:/BME/grafika/hf2/cmake-build-debug-mingw/CMakeFiles/glew-complete.rule
+C:/BME/grafika/hf2/cmake-build-debug-mingw/glew-prefix/src/glew-stamp/glew-build.rule
+C:/BME/grafika/hf2/cmake-build-debug-mingw/glew-prefix/src/glew-stamp/glew-configure.rule
+C:/BME/grafika/hf2/cmake-build-debug-mingw/glew-prefix/src/glew-stamp/glew-download.rule
+C:/BME/grafika/hf2/cmake-build-debug-mingw/glew-prefix/src/glew-stamp/glew-install.rule
+C:/BME/grafika/hf2/cmake-build-debug-mingw/glew-prefix/src/glew-stamp/glew-mkdir.rule
+C:/BME/grafika/hf2/cmake-build-debug-mingw/glew-prefix/src/glew-stamp/glew-patch.rule
+C:/BME/grafika/hf2/cmake-build-debug-mingw/glew-prefix/src/glew-stamp/glew-update.rule

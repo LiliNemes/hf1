@@ -2,34 +2,34 @@
 	"sources" : 
 	[
 		{
-			"file" : "C:/BME/grafika/hf1/cmake-build-debug/CMakeFiles/glew"
+			"file" : "C:/BME/grafika/hf2/cmake-build-debug/CMakeFiles/glew"
 		},
 		{
-			"file" : "C:/BME/grafika/hf1/cmake-build-debug/CMakeFiles/glew.rule"
+			"file" : "C:/BME/grafika/hf2/cmake-build-debug/CMakeFiles/glew.rule"
 		},
 		{
-			"file" : "C:/BME/grafika/hf1/cmake-build-debug/CMakeFiles/glew-complete.rule"
+			"file" : "C:/BME/grafika/hf2/cmake-build-debug/CMakeFiles/glew-complete.rule"
 		},
 		{
-			"file" : "C:/BME/grafika/hf1/cmake-build-debug/glew-prefix/src/glew-stamp/glew-build.rule"
+			"file" : "C:/BME/grafika/hf2/cmake-build-debug/glew-prefix/src/glew-stamp/glew-build.rule"
 		},
 		{
-			"file" : "C:/BME/grafika/hf1/cmake-build-debug/glew-prefix/src/glew-stamp/glew-configure.rule"
+			"file" : "C:/BME/grafika/hf2/cmake-build-debug/glew-prefix/src/glew-stamp/glew-configure.rule"
 		},
 		{
-			"file" : "C:/BME/grafika/hf1/cmake-build-debug/glew-prefix/src/glew-stamp/glew-download.rule"
+			"file" : "C:/BME/grafika/hf2/cmake-build-debug/glew-prefix/src/glew-stamp/glew-download.rule"
 		},
 		{
-			"file" : "C:/BME/grafika/hf1/cmake-build-debug/glew-prefix/src/glew-stamp/glew-install.rule"
+			"file" : "C:/BME/grafika/hf2/cmake-build-debug/glew-prefix/src/glew-stamp/glew-install.rule"
 		},
 		{
-			"file" : "C:/BME/grafika/hf1/cmake-build-debug/glew-prefix/src/glew-stamp/glew-mkdir.rule"
+			"file" : "C:/BME/grafika/hf2/cmake-build-debug/glew-prefix/src/glew-stamp/glew-mkdir.rule"
 		},
 		{
-			"file" : "C:/BME/grafika/hf1/cmake-build-debug/glew-prefix/src/glew-stamp/glew-patch.rule"
+			"file" : "C:/BME/grafika/hf2/cmake-build-debug/glew-prefix/src/glew-stamp/glew-patch.rule"
 		},
 		{
-			"file" : "C:/BME/grafika/hf1/cmake-build-debug/glew-prefix/src/glew-stamp/glew-update.rule"
+			"file" : "C:/BME/grafika/hf2/cmake-build-debug/glew-prefix/src/glew-stamp/glew-update.rule"
 		}
 	],
 	"target" : 
