@@ -1,1 +1,1 @@
-# hf1
+# Computer Graphics 1st homework
